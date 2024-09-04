@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #00154f;
+    background: rgba(130,122,213);
 }
 
 .gift-container {
